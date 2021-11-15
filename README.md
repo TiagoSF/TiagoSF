@@ -44,5 +44,5 @@
    ##
    
   <div align="center">
-   <h5>Dont Panic</h5>
+   <h5>Don't Panic</h5>
 </div>
