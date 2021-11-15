@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/tiago-santos-147412123" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Things i like:</h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I enjoy working on</h3>
 <ul>
   <li>📊 Machine Learning & Data Science</li>
   <li>🖍️ Design UI/UX</li>
